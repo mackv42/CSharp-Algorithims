@@ -1,0 +1,12 @@
+1. Tree structure created from scraped text from the english dictionary
+Making search Time complexity O( log24 )
+
+                         *
+ a b c d e f g h i j k l m n o p q r s t u v w x y z 
+ ...................................................
+ 
+ 
+ 2. Floodfill algorithm on an image with range of constraints
+ Should look like 
+          FloodFill(Point point, Constraints constraints, ByteArray imageData)
+          
